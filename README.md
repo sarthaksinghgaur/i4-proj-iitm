@@ -22,5 +22,5 @@ source env_name/bin/activate
 ```
 3. Install all the dependency 
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
